@@ -17,16 +17,16 @@ public class Main {
 
                 System.out.println();
                 System.out.println("===== MENU =====");
-                System.out.println("1 - Perfis do plano Família");
-                System.out.println("2 - Filmes acima da média");
-                System.out.println("3 - Perfis que assistiram um episódio mais de uma vez");
-                System.out.println("4 - Filmes vistos por um perfil com média > 8");
-                System.out.println("5 - Perfis que não avaliaram séries de comédia");
-                System.out.println("6 - Visualizações por gênero e plano");
-                System.out.println("7 - Filmes assistidos por perfil");
-                System.out.println("8 - Episódios assistidos por série");
-                System.out.println("9 - Perfis que nunca assistiram filmes");
-                System.out.println("10 - Duração média dos episódios");
+                System.out.println("1 - Nome dos perfis do plano Família");
+                System.out.println("2 - Filmes cuja media de avaliação individual é superior a média de avaliação de todos os filmes");
+                System.out.println("3 - Perfis que assistiram ao mesmo episodio mais de uma vez da serie de escolha do usuário");
+                System.out.println("4 - Nome dos filmes assistidos por perfil de escolha do usuario cuja média da nota é superior a 8");
+                System.out.println("5 - Perfis que não avaliaram nenhuma série de comédia");
+                System.out.println("6 - Quantidade de visualizações de filmes por gênero e plano");
+                System.out.println("7 - Quantidade de filmes assistidos por perfil e plano");
+                System.out.println("8 - Quantidade de episódios assistidos por série");
+                System.out.println("9 - Perfis e seus assinantes que nunca assistiram a nenhum filme");
+                System.out.println("10 -Duração média dos episódios assistidos por cada perfil");
                 System.out.println("0 - Sair");
 
                 System.out.print("\nEscolha: ");
